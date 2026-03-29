@@ -43,7 +43,7 @@ The goal is to provide actionable insights using data analytics and visualizatio
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](image/dashboard.png)
 
 ---
 
